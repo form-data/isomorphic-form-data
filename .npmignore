@@ -1,0 +1,14 @@
+*.iml
+*.sublime-*
+*.un~
+
+.idea
+.gitignore
+.npmignore
+.travis.yml
+
+Makefile
+sftp-config.json
+
+node_modules/
+test/
