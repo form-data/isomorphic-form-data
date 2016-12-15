@@ -15,7 +15,7 @@ In this example we are constructing a form with 3 fields that contain a string,
 a buffer and a file stream.
 
 ``` javascript
-require('form-data');
+require('isomorphic-form-data');
 var fs = require('fs');
 
 var form = new FormData();
